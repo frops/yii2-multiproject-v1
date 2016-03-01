@@ -14,12 +14,12 @@
 				css / 
 					main / 
 						main.css
-		wf /
+		project1 /
 			views /
 				layouts /
 					main.php
 			assets /
-				AppAsset.php extends app/common/assets/AppAsset.php
+				AppAsset.php extends application/common/assets/AppAsset.php
 			static /
 				js / 
 					main/
@@ -42,12 +42,12 @@
 							news.css
 						js / 
 							news.js
-				wf / 
+				project1 / 
 					assets /
-						NewsAssets.php extends app/modules/news/common/assets/NewsAsset.php
+						NewsAssets.php extends application/modules/news/common/assets/NewsAsset.php
 					models / 
-						Category.php extends app/modules/news/common/models/Category.php
-						News.php extends app/modules/news/common/models/News.php
+						Category.php extends application/modules/news/common/models/Category.php
+						News.php extends application/modules/news/common/models/News.php
 					static / 
 						css /
 							news.css

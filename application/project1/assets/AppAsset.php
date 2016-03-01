@@ -1,5 +1,5 @@
 <?php
-namespace application\wf\assets;
+namespace application\project1\assets;
 
 class AppAsset extends \application\common\assets\AppAsset
 {
